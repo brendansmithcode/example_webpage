@@ -10,7 +10,7 @@
     <div class="sidebar">
         <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="https://www.youtube.com/your-video-url">YouTube</a></li>
+            <li><a href="https://www.youtube.com/">YouTube</a></li>
         </ul>
     </div>
     <div class="content">
